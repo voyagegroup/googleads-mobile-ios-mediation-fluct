@@ -1,1 +1,3 @@
-# googleads-mobile-ios-mediation-fluct
+# GoogleMobileAdsMediationFluctSwiftPM
+
+GoogleMobileAdsMediationFluct SwiftPMにまつわるプロジェクトです
